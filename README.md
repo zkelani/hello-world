@@ -1,3 +1,5 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
-My name is Zainab and mt major is Application Development. 
+# about me
+My name is Zainab
+My major is Application Development. 
